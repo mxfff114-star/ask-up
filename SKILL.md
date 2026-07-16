@@ -1,9 +1,9 @@
 ---
-name: decision-gate
+name: ask-up
 description: "Help an agent understand the user before it acts: start meaningful new work by building a shared brief through focused questions, learn confirmed preferences, then directly execute compatible low-risk reversible tasks. Offer a user-selectable Fast lane that skips low-risk discovery. Always stage explicit approval before high-impact actions such as deploy, publish, send, delete, spend, change permissions, or modify data. Use when a request to create, change, send, publish, contact, decide, research, automate, deploy, spend, or modify data lacks a reliable shared objective, scope, fact, constraint, approval boundary, or success condition. Do not use for a direct answer or a fully specified low-risk reversible task after sufficient shared context exists."
 ---
 
-# DecisionGate
+# AskUp
 
 Build shared understanding before meaningful work, then earn the right to be quiet. At the start of a relationship or a new kind of task, ask focused questions in small rounds until the agent can state a shared working brief. After the user confirms durable preferences and boundaries, directly execute compatible low-risk reversible work without reopening discovery.
 
