@@ -2,6 +2,19 @@
 
 Use this reference when deciding whether to ask, research, assume, or act.
 
+## Context First, Unless The User Chooses Fast Lane
+
+For a new collaborator or a new kind of meaningful task, use Context Mode by default. Ask one to three decision-changing questions per round, research independently between rounds, and keep going until a shared brief can describe the objective, audience, scope, constraints, authority, and done condition without material ambiguity.
+
+Before or during this process, offer:
+
+| User choice | Behavior |
+| --- | --- |
+| **Build context (recommended)** | Continue focused discovery and ask the user to correct or confirm the shared brief before substantial work starts. |
+| **Fast lane** | Skip low-risk discovery for this request. State material reversible assumptions and proceed. Still require explicit approval for external, financial, sensitive, or irreversible actions. |
+
+Do not ask questions that have no decision delta just to make Context Mode feel thorough. Once a shared context is reliable, do compatible clear reversible work directly.
+
 ## Gate
 
 Ask a question only when all of these are true:
@@ -32,3 +45,4 @@ Avoid:
 > What is your stage, geography, sector, ticket size, traction, deck link, and timeline?
 
 When a choice is common and consequential, give a short recommendation with alternatives. Never use the gate to demand information an agent can discover itself.
+
